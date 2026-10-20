@@ -1,6 +1,6 @@
 # Hi, I'm İdil 👋
 
-Junior Full Stack Developer with hands-on experience from 30+ client projects in Germany and Turkey.
+Junior Full Stack Developer with hands-on experience from 20+ client projects in Germany and Turkey.
 I enjoy turning designs into clean, responsive interfaces and building the backend that powers them.
 
 ## 🛠 Tech Stack
